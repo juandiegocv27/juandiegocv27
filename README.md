@@ -1,5 +1,5 @@
 # Hi, I'm Juan Diego🍇
-🧩 I’m currently working on my projects and help to create new projects<br><br>🌱 I’m learning: Typescript, React, Next and Node.js<br><br>📩 How to reach me: jdcarballo2701@gmail.com
+🧩 I’m currently working on my projects and help to create and modify new ones<br><br>🌱 I’m learning: Typescript, React, Next and Node.js<br><br>📩 How to reach me: jdcarballo2701@gmail.com
 
 
 ## 🌐 Socials:
