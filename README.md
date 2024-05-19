@@ -1,5 +1,5 @@
 # Hi Everyone, 
-🧩 I’m working on my projects and help to create and modify new ones.<br><br>🌱 I’m currently learning: Typescript, Cairo, React, Next and Node.js.<br><br>📩 How to reach me: jdcarballo2701@gmail.com or DM me in Telegram.
+🧩 I’m working on my projects and help to create and modify new ones.<br>🌱 I’m currently learning: Typescript, Cairo, React, Next and Node.js.<br>📩 How to reach me: jdcarballo2701@gmail.com or DM me in Telegram.
 
 
 ## 🌐 Socials:
