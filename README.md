@@ -4,7 +4,7 @@
 | --- | --- |
 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/JuanDixCode)
-[![X](https://img.shields.io/badge/X-Follow%20%40juandiegocv27-%23000000.svg?logo=data:image/png;base64,<Base64-encoded-image>&logoColor=white)](https://x.com/JuanDixCode)
+[![X](https://img.shields.io/badge/X-Follow%20%40JuanDixCode-%23000000.svg?logo=data:image/png;base64,<Base64-encoded-image>&logoColor=white)](https://x.com/JuanDixCode)
 
 
 
