@@ -1,6 +1,6 @@
 # HI, I'm Juan Diego🥷🏼:
 
-| 🌱 I’m working on my project. <br><br> 🌐 Contributing to OSS projects.<br><br> 🕹️ Developing on-chain games. <br><br> 💻 Passionate web3 developer. | ![edward-elric-fma](https://github.com/juandiegocv27/juandiegocv27/assets/101369290/326b9311-c256-434c-8d56-42c75d751d9f) |
+| 🌱 I’m working on be better daily. <br><br> 🌐 Contributing to OSS projects.<br><br> 🕹️ Developing on-chain games. <br><br> 💻 Passionate web3 developer. | ![edward-elric-fma](https://github.com/juandiegocv27/juandiegocv27/assets/101369290/326b9311-c256-434c-8d56-42c75d751d9f) |
 | --- | --- |
 
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?logo=telegram&logoColor=white)](https://t.me/JuanDixCode)
