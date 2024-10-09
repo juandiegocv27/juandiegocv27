@@ -1,4 +1,4 @@
-# HI, I'm Juan Diego Carballo 🥷🏼:
+# HI, I'm Juan Diego Carballo 🪻:
 
 🌱 I’m working on be better daily. <br><br> 🌐 Contributing to OSS projects.<br><br> 🕹️ Developing on-chain games (ByteBeasts). <br><br> 💻 Passionate web3 developer.
 
