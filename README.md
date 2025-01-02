@@ -4,22 +4,22 @@
 🚀 Software Engineer | 🌐 Web3 Enthusiast | 💎 Great vision developer
 
 
-[![Twitter: JuanDixCode](https://img.shields.io/twitter/follow/JuanDixCode?style=social)](https://twitter.com/JuanDixCode)
-[![GitHub JuanDixCode](https://img.shields.io/github/followers/juandiegocv27?label=follow&style=social)](https://github.com/juandiegocv27)
+[![Twitter: JuanDixCode](https://img.shields.io/twitter/follow/JuanDixCode?style=social&color=black)](https://twitter.com/JuanDixCode)
+[![GitHub: juandiegocv27](https://img.shields.io/github/followers/juandiegocv27?label=follow&style=social&color=black)](https://github.com/juandiegocv27)
 
 
 
-## 🛠️ Skills
+## 🛠️ Tech Skills
 
 **Languages:** Rust, Cairo, Typescript, JavaScript, Python, Dart, C#, Java  
-**Frameworks:** React, Dojo, FlutterFlow, .Net Framework, SpringBoot  
+**Frameworks:** React, Next.js, Dojo, FlutterFlow, .Net Framework, SpringBoot  
 **Other Tools:** Azure, Linux, SQL, MongoDB, Firebase, Docker, Git  
 
 
 
-## Connect With Me 🌐
+## Connect With Me ⛷️
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/juandiegocarballo/)  
-- 📫 Email: juandiegocarballo2701@gmail.com  
+- 📫 juandiegocarballo2701@gmail.com  
 - 🗨️ [Telegram](https://t.me/JuanDixCode)  
 
