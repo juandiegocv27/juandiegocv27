@@ -15,7 +15,10 @@
 **Frameworks:** React, Next.js, Dojo, FlutterFlow, .Net Framework, SpringBoot  
 **Other Tools:** Azure, Linux, SQL, MongoDB, Firebase, Docker, Git  
 
-
+## 🏆 Achievements 
+- 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [💎 BabyBeasts](https://github.com/ByteBuildersLabs/BabyBeastsv2)
+- 🗓️ **07/2024** Competitor at Starknet Hacker House Brussels [💎 ByteBeasts](https://github.com/ByteBuildersLabs/ByteBeastsFrontend)
+- 🗓️ **06/2024** Competitor at Starkhack [💎 ByteBeasts](https://ethglobal.com/showcase/bytebeasts-kf97c)
 
 ## Connect With Me ⛷️
 
