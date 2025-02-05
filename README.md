@@ -1,7 +1,7 @@
 
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVqcTUzd2wzMmdmdWlyYWU0dG0wZTljbGprbmcxanMzOWM5a3Q0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OdSZCPaQZWlWw/giphy.gif" width="310" >
 <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1100&color=A807F7&background=FFFFFF00&width=435&lines=HI%2C+I'm+Juan+Diego%F0%9F%AA%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=4000&pause=1100&color=A807F7&background=FFFFFF00&width=435&lines=HI%2C+I'm+Juan+Diego" alt="Typing SVG" /></a>
 </h1> 
   
 🚀 Software Engineer | 🌐 Web3 Enthusiast | 💎 Great vision developer
