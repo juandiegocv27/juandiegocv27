@@ -14,9 +14,9 @@
 
 ## 🛠️ Tech Skills
 
-**Languages:** Rust, Cairo, Typescript, JavaScript, Python, Dart, C#, Java  
-**Frameworks:** React, Next.js, Dojo, FlutterFlow, .Net Framework, SpringBoot  
-**Other Tools:** Azure, Linux, SQL, MongoDB, Firebase, Docker, Git  
+**Languages:** Rust, Cairo, Typescript, JavaScript, C#, Python, Dart, Java  
+**Frameworks:** React, Next.js, Dojo, FlutterFlow, .Net Core, .Net Framework, SpringBoot  
+**Other Tools:** Azure, Linux, SQL, PostgreSQL, MongoDB, Firebase, Docker, Git, AWS  
 
 ## 🏆 Achievements 
 - 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [💎 BabyBeasts](https://github.com/ByteBuildersLabs/BabyBeastsv2)
