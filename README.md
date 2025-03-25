@@ -25,3 +25,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/juandiegocarballo/)  
 - 📫 juandiegocarballo2701@gmail.com  
 - 🗨️ [Telegram](https://t.me/JuanDixCode)  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
+</p>
