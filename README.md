@@ -1,7 +1,7 @@
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWx2ejJ5bXlranYxZWNhMWdsZ2g4am8zdHM5MHdtOWh0eXhmeHJseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S8rWeMk5v022c6Z9nS/giphy.gif" width="310" />
 
 <h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=5C00F7&random=true&width=435&lines=Hi%2C+I%C2%B4m+Juan+Diego+Carballo;Sofware+Engineer;Blockchain+Developer;Cloud+Computing+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=5C00F7&random=true&width=435&lines=Hi%2C+I%C2%B4m+Juan+Diego+Carballo;Software+Engineer;Blockchain+Developer;Cloud+Computing+Enthusiast;Open+Source+Contributor" alt="Typing SVG" /></a>
 </h1> 
   
 🚀 Software Engineer | 🌐 Web3 Enthusiast | 💎 Great vision developer
