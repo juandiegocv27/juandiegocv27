@@ -30,9 +30,7 @@
 
 ## Connect With Me ⛷️
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/juandiegocarballo/)  
-- 📫 juandicarballo2701@gmail.com  
-- 🗨️ [Telegram](https://t.me/JuanDixCode)  
+[LinkedIn](https://www.linkedin.com/in/juandiegocarballo/)  | [Email](juandicarballo2701@gmail.com)  | [Telegram](https://t.me/JuanDixCode)  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
