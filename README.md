@@ -17,7 +17,7 @@ Software Engineer 💻 |  Cloud Security Student ☁️ | Great vision developer
 **Cloud & DevOps:** AWS, Azure, Kubernetes, Docker, Terraform, CI/CD Pipelines, GitHub Actions, IAM, VPC, Security Groups, Cloud Config  
 **Databases:** SQL, PostgreSQL, MongoDB, Firebase, Firestore, Supabase  
 **Other Tools:** Git, Linux/MacOS, Windows, Power BI, Jenkins, YAML, API Development, Process Automation, (IaC)  
-**AI & Data:** LlamaIndex, GPT-4o integration  
+**AI & Data:** LlamaIndex, GPT-4o integration(OpenAI)
 
 
 ## 🏆 Achievements 
@@ -25,10 +25,10 @@ Software Engineer 💻 |  Cloud Security Student ☁️ | Great vision developer
 - 🗓️ **03/2025** 🏅 11nd globally at Celestia Hackathon: Mammothon [🧠 HoriZenDex](https://github.com/HoriZenDex)
 - 🗓️ **10/2024** 🥈 2nd at Dojo Game Jam #5 [💎 BabyBeasts](https://github.com/ByteBuildersLabs/BabyBeastsv2)
 - 🗓️ **07/2024** Competitor at Starknet Hacker House Brussels [💎 ByteBeasts](https://github.com/ByteBuildersLabs/ByteBeastsFrontend)
-- 🗓️ **06/2024** Competitor at Starkhack [💎 ByteBeasts](https://ethglobal.com/showcase/bytebeasts-kf97c)
+- 🗓️ **06/2024** Competitor at Starkhack hackathon [💎 ByteBeasts](https://ethglobal.com/showcase/bytebeasts-kf97c)
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</p>
+
+  
+
