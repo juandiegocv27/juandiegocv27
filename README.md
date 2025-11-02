@@ -11,24 +11,24 @@
 ---
 
 ### 🧭 About Me  
-Cloud & DevOps Engineer con **2 años de experiencia en el mundo de la tecnología (TI)**, diseñando y automatizando **entornos en la nube escalables, seguros y observables**.  
-Especialista en **Kubernetes, Infrastructure as Code y automatización de CI/CD**, aplicando principios de SRE para construir sistemas que **escalan, se auto-recuperan y mejoran continuamente**.
+Cloud & DevOps Engineer with **2 years of experience in the technology field (IT)**, designing and automating **scalable, secure, and observable cloud environments**.  
+Specialist in **Kubernetes, Infrastructure as Code, and CI/CD automation**, applying SRE principles to build systems that **scale, self-heal, and continuously improve**.
 
 ---
 
 ### 🛠️ Core Skills  
 
-| Categoría                  | Herramientas y Tecnologías                                            |
-|----------------------------|------------------------------------------------------------------------|
-| **Cloud Platforms**        | AWS (Certified) · Azure · GCP                                         |
-| **Containers & Orchestration** | Kubernetes (EKS, K3s) · Docker · Argo CD                          |
-| **Infrastructure as Code** | Terraform · Crossplane · Pulumi (básico)                               |
-| **CI/CD & Automation**     | GitHub Actions · Jenkins · Azure DevOps · KEDA                         |
-| **Observability**          | Prometheus · Grafana · Loki · Tempo · OpenTelemetry                   |
-| **Programming & Scripting**| Python · TypeScript · Go (Golang) · C# · Bash · PowerShell             |
-| **Networking & Security**  | IAM · VPC · DNS · Load Balancing · TLS · Firewall Policies · ISO 27001 · SOC2 · GDPR |
-| **Operating Systems**      | Linux (Ubuntu/Fedora) · macOS · Windows Server                        |
-| **Engineering Practices**  | GitOps · SRE Principles · Cost Optimization · Disaster Recovery · Incident Response |
+| Category                   | Tools and Technologies                                                 |
+|---------------------------|------------------------------------------------------------------------|
+| **Cloud Platforms**       | AWS (Certified) · Azure · GCP                                          |
+| **Containers & Orchestration** | Kubernetes (EKS, K3s) · Docker · Argo CD                         |
+| **Infrastructure as Code**| Terraform · Crossplane · Pulumi (basic)                                |
+| **CI/CD & Automation**    | GitHub Actions · Jenkins · Azure DevOps · KEDA                         |
+| **Observability**         | Prometheus · Grafana · Loki · Tempo · OpenTelemetry                    |
+| **Programming & Scripting**| Python · TypeScript · Go (Golang) · C# · Bash · PowerShell            |
+| **Networking & Security** | IAM · VPC · DNS · Load Balancing · TLS · Firewall Policies · ISO 27001 · SOC2 · GDPR |
+| **Operating Systems**     | Linux (Ubuntu/Fedora) · macOS · Windows Server                         |
+| **Engineering Practices** | GitOps · SRE Principles · Cost Optimization · Disaster Recovery · Incident Response |
 
 ---
 
