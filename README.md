@@ -22,12 +22,12 @@ Specialist in **Kubernetes, Infrastructure as Code, and CI/CD automation**, appl
 |---------------------------|------------------------------------------------------------------------|
 | **Cloud Platforms**       | AWS (Certified) · Azure · GCP                                          |
 | **Containers & Orchestration** | Kubernetes (EKS, K3s) · Docker · Argo CD                         |
-| **Infrastructure as Code**| Terraform · Crossplane · Pulumi (basic)                                |
+| **Infrastructure as Code**| Terraform  · Cloudformation                             |
 | **CI/CD & Automation**    | GitHub Actions · Jenkins · Azure DevOps · KEDA                         |
-| **Observability**         | Prometheus · Grafana · Loki · Tempo · OpenTelemetry                    |
+| **Observability**         | Prometheus · Grafana · Loki · OpenTelemetry                    |
 | **Programming & Scripting**| Python · TypeScript · Go (Golang) · C# · Bash · PowerShell            |
-| **Networking & Security** | IAM · VPC · DNS · Load Balancing · TLS · Firewall Policies · ISO 27001 · SOC2 · GDPR |
-| **Operating Systems**     | Linux (Ubuntu/Fedora) · macOS · Windows Server                         |
+| **Networking & Security** | IAM · VPC · DNS · Load Balancing · TLS · Firewall Policies · ISO 27001 |
+| **Operating Systems**     | Linux (Ubuntu/Debian) · macOS · Windows Server                         |
 | **Engineering Practices** | GitOps · SRE Principles · Cost Optimization · Disaster Recovery · Incident Response |
 
 ---
@@ -35,7 +35,7 @@ Specialist in **Kubernetes, Infrastructure as Code, and CI/CD automation**, appl
 ### 🏆 Highlights  
 **Certifications:** AWS Certified Cloud Practitioner · CCNAv7 · Scrum Fundamentals Certified (SFC) · CKA (in progress)  
 **Achievements:** Gorilla Logic AI Hackathon – Cloud/DevOps Engineer · 2nd Place – Dojo Game Jam #5 · Core Developer – Starknet Brussels HackerHouse  
-**Education:** B.Sc. Computer Engineering – Universidad Fidélitas (2025)
+**Education:** B.Sc. Computer Engineering – Universidad Fidélitas (Finished my coursework in 2025)
 
 ---
 
