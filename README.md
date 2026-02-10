@@ -22,7 +22,7 @@ Specialist in **Kubernetes, Infrastructure as Code, and CI/CD automation**, appl
 |---------------------------|------------------------------------------------------------------------|
 | **Cloud Platforms**       | AWS (Certified) · Azure · GCP                                          |
 | **Containers & Orchestration** | Kubernetes (EKS, K3s) · Docker · Argo CD                         |
-| **Infrastructure as Code**| Terraform  · Cloudformation                             |
+| **Infrastructure as Code**| Terraform  · CloudFormation                             |
 | **CI/CD & Automation**    | GitHub Actions · Jenkins · Azure DevOps · KEDA                         |
 | **Observability**         | Prometheus · Grafana · Loki · OpenTelemetry                    |
 | **Programming & Scripting**| Python · TypeScript · Go (Golang) · C# · Bash · PowerShell            |
