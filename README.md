@@ -33,7 +33,7 @@ Specialist in **Kubernetes, Infrastructure as Code, and CI/CD automation**, appl
 ---
 
 ### 🏆 Highlights  
-**Certifications:** AWS Certified Cloud Practitioner · CCNAv7 · Scrum Fundamentals Certified (SFC) · CKA (in progress)  
+**Certifications:** AWS Certified Cloud Practitioner · CCNAv7 · Scrum Fundamentals Certified (SFC) · CKA  
 **Achievements:** Gorilla Logic AI Hackathon – Cloud/DevOps Engineer · 2nd Place – Dojo Game Jam #5 · Core Developer – Starknet Brussels HackerHouse  
 **Education:** B.Sc. Computer Engineering – Universidad Fidélitas (Finished my coursework in 2025)
 
