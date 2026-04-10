@@ -16,7 +16,7 @@ SRE & DevOps Engineer from Costa Rica. I build and operate cloud infrastructure 
 
 My approach: if it can't be measured, it can't be improved. If it can't be automated, it won't scale. If it's not documented, it doesn't exist.
 
-I maintain **[ShopStack](https://github.com/juandiegocarballo)** — a production-grade e-commerce platform on Kubernetes with Terraform IaC, GitOps via Argo CD, and full Prometheus/Grafana observability. It's how I learn: by building real systems, breaking them, and making them better.
+I maintain **[ShopStack](https://github.com/juandiegocv27/Shopstack)** — a production-grade e-commerce platform on Kubernetes with Terraform IaC, GitOps via Argo CD, and full Prometheus/Grafana observability. It's how I learn: by building real systems, breaking them, and making them better.
 
 ---
 
