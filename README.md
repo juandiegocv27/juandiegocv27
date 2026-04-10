@@ -10,33 +10,40 @@
 
 ---
 
-### 🧭 About Me  
-Cloud & DevOps Engineer with **2 years of experience in the technology field (IT)**, designing and automating **scalable, secure, and observable cloud environments**.  
-Specialist in **Kubernetes, Infrastructure as Code, and CI/CD automation**, applying SRE principles to build systems that **scale, self-heal, and continuously improve**.
+### 🧭 About Me
+
+SRE & DevOps Engineer from Costa Rica. I build and operate cloud infrastructure with a bias toward automation, observability, and reliability.
+
+My approach: if it can't be measured, it can't be improved. If it can't be automated, it won't scale. If it's not documented, it doesn't exist.
+
+I maintain **[ShopStack](https://github.com/juandiegocarballo)** — a production-grade e-commerce platform on Kubernetes with Terraform IaC, GitOps via Argo CD, and full Prometheus/Grafana observability. It's how I learn: by building real systems, breaking them, and making them better.
 
 ---
 
-### 🛠️ Core Skills  
+### 🛠️ What I Actually Work With
 
-| Category                   | Tools and Technologies                                                 |
-|---------------------------|------------------------------------------------------------------------|
-| **Cloud Platforms**       | AWS (Certified) · Azure · GCP                                          |
-| **Containers & Orchestration** | Kubernetes (EKS, K3s) · Docker · Argo CD                         |
-| **Infrastructure as Code**| Terraform  · CloudFormation                             |
-| **CI/CD & Automation**    | GitHub Actions · Jenkins · Azure DevOps · KEDA                         |
-| **Observability**         | Prometheus · Grafana · Loki · OpenTelemetry                    |
-| **Programming & Scripting**| Python · TypeScript · Go (Golang) · C# · Bash · PowerShell            |
-| **Networking & Security** | IAM · VPC · DNS · Load Balancing · TLS · Firewall Policies · ISO 27001 |
-| **Operating Systems**     | Linux (Ubuntu/Debian) · macOS · Windows Server                         |
-| **Engineering Practices** | GitOps · SRE Principles · Cost Optimization · Disaster Recovery · Incident Response |
-
----
-
-### 🏆 Highlights  
-**Certifications:** AWS Certified Cloud Practitioner · CCNAv7 · Scrum Fundamentals Certified (SFC) · CKA  
-**Achievements:** Gorilla Logic AI Hackathon – Cloud/DevOps Engineer · 2nd Place – Dojo Game Jam #5 · Core Developer – Starknet Brussels HackerHouse  
-**Education:** B.Sc. Computer Engineering – Universidad Fidélitas (Finished my coursework in 2025)
+| Category | Technologies |
+|---|---|
+| **Cloud** | AWS (Certified) |
+| **Containers & Orchestration** | Kubernetes (EKS, Talos Linux, K3s) · Docker · Argo CD |
+| **Infrastructure as Code** | Terraform (remote state, OIDC federation, modules) |
+| **CI/CD** | GitHub Actions |
+| **Observability** | Prometheus · Grafana · Loki |
+| **Languages** | Python · TypeScript · Go · Bash |
+| **Networking & Security** | VPC · CIDR/Subnets · TLS · IAM · DNS · Load Balancing |
+| **OS** | Linux (Ubuntu/Debian) |
+| **Practices** | GitOps · SRE (SLIs/SLOs/SLAs, error budgets, blameless postmortems) · Incident Response |
 
 ---
 
-> “I design systems that are secure, observable, and built to last — not by chance, but by engineering.”
+### 🏆 Highlights
+
+**Certifications:** AWS Cloud Practitioner · CCNAv7 · Scrum Fundamentals (SFC)  
+**In Progress:** CKA · Técnico en Seguridad Defensiva – UCENFOTEC (Blue Team)  
+**Open Source:** 30+ contributions across 12 countries via OnlyDust  
+**Hackathons:** Gorilla Logic AI Hackathon (Cloud/DevOps) · 2nd Place – Dojo Game Jam #5 · Starknet Brussels HackerHouse  
+**Education:** B.Sc. Computer Engineering – Universidad Fidélitas (2020-In Progress, GPA 3.8) / Technical Diploma in Defensive Security (Blue Team) – UCENFOTEC (In Progress)
+
+---
+
+> *Automate everything. Build to last. Measure to improve.*
