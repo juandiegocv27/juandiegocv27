@@ -39,10 +39,10 @@ I maintain **[ShopStack](https://github.com/juandiegocv27/Shopstack)** — a pro
 ### 🏆 Highlights
 
 **Certifications:** AWS Cloud Practitioner · CCNAv7 · Scrum Fundamentals (SFC)  
-**In Progress:** CKA · Técnico en Seguridad Defensiva – UCENFOTEC (Blue Team)  
+**In Progress:** CKA · Associate Degree in Defensive Security  – UCENFOTEC (Blue Team) 
 **Open Source:** 30+ contributions across 12 countries via OnlyDust  
 **Hackathons:** Gorilla Logic AI Hackathon (Cloud/DevOps) · 2nd Place – Dojo Game Jam #5 · Starknet Brussels HackerHouse  
-**Education:** B.Sc. Computer Engineering – Universidad Fidélitas (2020-In Progress, GPA 3.8) / Technical Diploma in Defensive Security (Blue Team) – UCENFOTEC (In Progress)
+**Education:** B.Sc. Computer Engineering – Universidad Fidélitas (GPA 3.8) / TAssociate Degree in Defensive Security (Blue Team) 
 
 ---
 
